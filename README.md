@@ -1,6 +1,3 @@
-Here’s a professional yet concise README you can use for your **fullstack SkyDecision project**. You can copy it directly and adjust any parts if you want:
-
----
 
 # SkyDecision
 
@@ -75,8 +72,4 @@ SkyDecision/
 
 This project is for **educational and portfolio purposes**.
 
----
 
-If you want, I can also **make a slightly fancier version** that highlights your project as a **portfolio-ready showcase for recruiters**, emphasizing your **fullstack skills** and **problem-solving abilities**.
-
-Do you want me to do that?
